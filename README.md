@@ -40,3 +40,6 @@ Once the tests were completed, the results were shared with the development team
 **Outcome**:
 By the end of the project, the e-commerce application was thoroughly tested across multiple environments and devices. We were able to identify and resolve several high-priority defects, including UI inconsistencies, functional errors in the checkout process, and performance bottlenecks under heavy load. The collaboration with the development team and the use of automation tools significantly improved the efficiency and accuracy of the testing process. The application was successfully released to production with improved quality, ensuring a seamless experience for users.
 In conclusion, my internship project provided valuable exposure to real-world testing tools and methodologies, enhancing my skills in both manual and automated testing while contributing to the overall success of the project.
+
+
+**TASK 01**: AUTOMATE THE TESTING OF A SAMPLE WEB APPLICATION’S LOGIN AND NAVIGATION FUNCTIONALITY USING SELENIUM WEBDRIVER.

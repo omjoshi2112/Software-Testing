@@ -43,3 +43,4 @@ In conclusion, my internship project provided valuable exposure to real-world te
 
 
 **TASK 01**: AUTOMATE THE TESTING OF A SAMPLE WEB APPLICATION’S LOGIN AND NAVIGATION FUNCTIONALITY USING SELENIUM WEBDRIVER.
+![Screenshot 2025-01-07 130717](https://github.com/user-attachments/assets/d9c46ce7-af97-4b5e-ac71-976ee3affd9f)

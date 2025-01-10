@@ -44,3 +44,9 @@ In conclusion, my internship project provided valuable exposure to real-world te
 
 **TASK 01**: AUTOMATE THE TESTING OF A SAMPLE WEB APPLICATION’S LOGIN AND NAVIGATION FUNCTIONALITY USING SELENIUM WEBDRIVER.
 ![Screenshot 2025-01-07 130717](https://github.com/user-attachments/assets/d9c46ce7-af97-4b5e-ac71-976ee3affd9f)
+
+
+DELIVERABLE: A SCRIPT REPOSITORY AND A TEST EXECUTION REPORT.
+A Script Repository is a centralized storage location where automated test scripts, code, and related resources are kept. It helps in version control, organization, and sharing of scripts among team members.
+
+A Test Execution Report is a document that summarizes the results of executed tests. It includes details like test case names, execution status (pass/fail), error messages, and overall test coverage. This report helps in tracking test progress and identifying issues.
